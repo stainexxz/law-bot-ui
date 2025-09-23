@@ -1,0 +1,5 @@
+Local Host
+const response = await fetch('http://localhost:3001/api/ask', { ... });
+
+Server Host
+const response = await fetch('https://law-bot-backend-melvin.onrender.com', { ... });
